@@ -1,0 +1,11 @@
+if(false){console.log('hello')};
+if(true){console.log('hello')};
+if(0){console.log("hello")};
+if(null){console.log("1")};
+let num=5;
+if(num>1){console.log(`${num}>1`)};
+if(num>10){console.log(`${num}>10`)};
+num="5 apples";
+num=parseInt(num);
+if(num>1){console.log(`${num}>1`)};
+num="5.2 apples";
