@@ -3,4 +3,5 @@
 // import './js/funExpres.js'
 // import "./js/funDeclar.js"
 // import "./js/funArrow.js"
-import "./js/practice.js"
+// import "./js/practice.js"
+import './js/ dz2.js'
